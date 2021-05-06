@@ -1,1 +1,1 @@
-# intellij_git_demo
+# visualStudioCode_git_demo
